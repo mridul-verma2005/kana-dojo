@@ -78,7 +78,7 @@
     "jlpt": "N3",
     "id": 9,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "分からない単語は辞書で調べてから質問してください。",
@@ -86,7 +86,7 @@
     "english": "Please look up unknown words before asking.",
     "jlpt": "N4",
     "id": 10,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
