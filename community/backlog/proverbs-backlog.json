@@ -968,7 +968,7 @@
     "romaji": "Ishibashi wo tataite wataru",
     "english": "Tap a stone bridge before crossing",
     "meaning": "Be very cautious",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -977,7 +977,7 @@
     "romaji": "Doku wo kurawaba sara made",
     "english": "If you eat poison, eat the plate too",
     "meaning": "If you must do it, go all the way",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -987,7 +987,7 @@
     "english": "Fate is strange yet delightful",
     "meaning": "Unexpected connections can be good",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 111,
@@ -995,7 +995,7 @@
     "romaji": "Toudai moto kurashi",
     "english": "It's darkest under the lighthouse",
     "meaning": "The obvious is often overlooked",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1004,7 +1004,7 @@
     "romaji": "Senri no michi mo ippo kara",
     "english": "A journey of a thousand miles begins with one step",
     "meaning": "Start small to reach big goals",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1013,7 +1013,7 @@
     "romaji": "Oni ni kanabou",
     "english": "An iron club to an ogre",
     "meaning": "Adding strength to the strong",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1022,7 +1022,7 @@
     "romaji": "Neko ni koban",
     "english": "Gold coins to a cat",
     "meaning": "Gifts wasted on those who don't appreciate them",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1032,7 +1032,7 @@
     "english": "Wind in the willow",
     "meaning": "Stay flexible and let problems pass",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 116,
